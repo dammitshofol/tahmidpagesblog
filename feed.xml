@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Tahmid Ahmed</title>
+    <link href="https://dammitshofol.github.io/tahmidpagesblog/feed.xml" rel="self" />
+    <link href="https://dammitshofol.github.io/tahmidpagesblog" />
+    <updated>2025-09-03T20:21:09+06:00</updated>
+    <author>
+        <name>Tahmid Ahmed</name>
+    </author>
+    <id>https://dammitshofol.github.io/tahmidpagesblog</id>
+
+    <entry>
+        <title>Hyprland </title>
+        <author>
+            <name>Tahmid Ahmed</name>
+        </author>
+        <link href="https://dammitshofol.github.io/tahmidpagesblog/hyprland.html"/>
+        <id>https://dammitshofol.github.io/tahmidpagesblog/hyprland.html</id>
+
+        <updated>2025-09-03T20:21:09+06:00</updated>
+            <summary>
+                <![CDATA[
+                    Exploring Hyprland: A Dynamic Wayland Compositor for the Modern Linux User If you’ve spent any time in the Linux community recently, you’ve probably seen people talking about Hyprland. It’s a modern, lightweight, and highly customizable Wayland compositor that’s quickly gaining popularity among power users, tinkerers,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Exploring Hyprland: A Dynamic Wayland Compositor for the Modern Linux User</h1>
+<p>If you’ve spent any time in the Linux community recently, you’ve probably seen people talking about <strong>Hyprland</strong>. It’s a modern, lightweight, and highly customizable Wayland compositor that’s quickly gaining popularity among power users, tinkerers, and those who love building personalized workflows. But what exactly is Hyprland, and why are so many people switching to it?</p>
+<h2>What is Hyprland?</h2>
+<p>Hyprland is a <strong>dynamic tiling Wayland compositor</strong>, similar in spirit to i3 or Sway, but designed to be more fluid and visually appealing. Instead of rigid tiling, it focuses on <strong>smooth animations, gestures, and flexibility</strong> while still keeping the efficiency that tiling window managers are known for.</p>
+<p>In simple terms: it manages your windows, workspaces, and layouts—but with a modern twist.</p>
+<h2>Key Features</h2>
+<ul>
+<li>
+<p><strong>Dynamic Tiling</strong>: Arrange windows automatically, with the ability to float, stack, or split them as you see fit.</p>
+</li>
+<li>
+<p><strong>Eye-Candy Animations</strong>: Windows don’t just “snap” into place—they glide and transition smoothly.</p>
+</li>
+<li>
+<p><strong>Extremely Configurable</strong>: Hyprland uses a plain-text config file, giving you total control over layouts, keybindings, gaps, colors, and effects.</p>
+</li>
+<li>
+<p><strong>Wayland-Native</strong>: Unlike older X11-based tiling WMs, Hyprland is built specifically for Wayland, which means better performance and modern features like fractional scaling.</p>
+</li>
+<li>
+<p><strong>Community &amp; Ecosystem</strong>: Active development and a growing number of community guides, scripts, and themes.</p>
+</li>
+</ul>
+<h2>Why Use Hyprland?</h2>
+<ol>
+<li>
+<p><strong>Performance</strong> – It’s lightweight and snappy, designed to make the most out of Wayland’s features.</p>
+</li>
+<li>
+<p><strong>Customization</strong> – Want gaps between windows, blur, or rounded corners? Hyprland gives you endless options.</p>
+</li>
+<li>
+<p><strong>Aesthetic + Productivity</strong> – Many tiling managers sacrifice looks for speed. Hyprland proves you can have both.</p>
+</li>
+<li>
+<p><strong>Future-Proof</strong> – With Linux slowly moving towards Wayland as the default, Hyprland is ahead of the curve.</p>
+</li>
+</ol>
+<h2>Getting Started</h2>
+<p>Installing Hyprland depends on your distro, but on Arch Linux (and Arch-based systems), it’s as simple as:</p>
+<pre><code class="language-bash">sudo pacman -S hyprland
+</code></pre>
+<p>Or if you prefer the AUR for the latest versions:</p>
+<pre><code class="language-bash">yay -S hyprland-git
+</code></pre>
+<p>After installation, you’ll need to set up your <strong>config file</strong> (usually located in <code>~/.config/hypr/hyprland.conf</code>). This is where you define keybindings, window rules, and all your personal tweaks.</p>
+<h2>Who Is Hyprland For?</h2>
+<ul>
+<li>
+<p><strong>Linux power users</strong> who want efficiency without sacrificing looks.</p>
+</li>
+<li>
+<p><strong>Minimalists</strong> who prefer lightweight setups with full control.</p>
+</li>
+<li>
+<p><strong>Tinkerers</strong> who love endlessly tweaking their desktop until it feels just right.</p>
+</li>
+<li>
+<p><strong>Gamers and creators</strong> who want Wayland’s performance advantages.</p>
+</li>
+</ul>
+<h2>Final Thoughts</h2>
+<p>Hyprland is more than just another tiling window manager—it’s a <strong>statement</strong> that Linux desktops can be both powerful and beautiful. Whether you’re coming from i3, Sway, GNOME, or KDE, Hyprland offers something fresh, modern, and highly customizable. If you enjoy tailoring your workflow and want a desktop that feels truly yours, Hyprland is worth a try.</p>
+<p>✨ Have you tried Hyprland yet? Share your experiences, configs, or favorite themes in the comments!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

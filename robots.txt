@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dammitshofol.github.io/tahmidpagesblog/sitemap.xml
